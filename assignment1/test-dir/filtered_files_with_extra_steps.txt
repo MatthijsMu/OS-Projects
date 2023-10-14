@@ -1,0 +1,5 @@
+-rw-rw-r-- 1 muis muis 27 sep 17 11:22 1
+-rw-rw-r-- 1 muis muis  0 sep 17 11:22 2
+-rw-rw-r-- 1 muis muis  0 sep 29 12:31 3
+-rw-rw-r-- 1 muis muis  0 sep 17 11:22 4
+-rw-rw-r-- 1 muis muis  0 sep 29 14:57 files.txt

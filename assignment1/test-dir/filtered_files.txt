@@ -1,0 +1,2 @@
+-rw-rw-r-- 1 muis muis  221 sep 29 14:57 files.txt
+-rw-rw-r-- 1 muis muis    0 sep 29 15:12 filtered_files.txt

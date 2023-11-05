@@ -1,0 +1,1 @@
+/usr/bin/g++  -Wall -O2 -g -g -rdynamic CMakeFiles/memory.dir/main.cpp.o CMakeFiles/memory.dir/main4.cpp.o -o memory 

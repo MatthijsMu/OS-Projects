@@ -1,0 +1,3 @@
+/home/muis/Documents/GitHub/OS-Projects/assignment3/build/CMakeFiles/memory.dir
+/home/muis/Documents/GitHub/OS-Projects/assignment3/build/CMakeFiles/edit_cache.dir
+/home/muis/Documents/GitHub/OS-Projects/assignment3/build/CMakeFiles/rebuild_cache.dir

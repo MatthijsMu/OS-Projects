@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/muis/Documents/GitHub/OS-Projects/assignment3/build",
+  "command": "/usr/bin/g++    -Wall -O2 -g -g -std=gnu++14 -o CMakeFiles/memory.dir/main.cpp.o -c /home/muis/Documents/GitHub/OS-Projects/assignment3/main.cpp",
+  "file": "/home/muis/Documents/GitHub/OS-Projects/assignment3/main.cpp"
+},
+{
+  "directory": "/home/muis/Documents/GitHub/OS-Projects/assignment3/build",
+  "command": "/usr/bin/g++    -Wall -O2 -g -g -std=gnu++14 -o CMakeFiles/memory.dir/main4.cpp.o -c /home/muis/Documents/GitHub/OS-Projects/assignment3/main4.cpp",
+  "file": "/home/muis/Documents/GitHub/OS-Projects/assignment3/main4.cpp"
+}
+]
